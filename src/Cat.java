@@ -44,6 +44,6 @@ public class Cat {
 		g2.setColor(Color.black);
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
-		g2.drawString("Meow meow meow", catX, catY+HEAD_DIMENSION+10);	
+		g2.drawString("I have so much existential angst", catX, catY+HEAD_DIMENSION+10);	
 	}
 }
